@@ -22,7 +22,7 @@
   
 - **Administrador**:
     - **Usuario**: `admin`
-    - **Contraseña**: `admi`
+    - **Contraseña**: `admin`
 
 - **Nombre de la base de datos**:
     -**alojamientos_bd**
